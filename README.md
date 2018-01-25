@@ -11,9 +11,12 @@ git clone this repo, then run `npm install -g`
 
 ## usage
 `todo --help` for manual
+
 `todo list` for task list
+
 `todo add <task>` to add a task
-`todo delete <taskNumber` to delete a task
+
+`todo delete <taskNumber>` to delete a task
 
 ## Disclaimer
 Running todo will create a `todo.md` file in your current working directory. This is where your task list will be stored.
